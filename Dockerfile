@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.8.1
+FROM gcr.io/kubernetes-helm/tiller:v2.11.0
 MAINTAINER cheneydc <cheneydc@gmail.com>
